@@ -25,7 +25,8 @@ This project involves the application of time series forecasting techniques, spe
    - Plot the forecasted data alongside historical monthly mean AQI values to visualize predictions.
 
 6. **Appendix:**
-    - [Link to Interactive Plots](insert_link_here)
+    - [Link to Interactive Plots](https://github.com/FouadAkhtar/Time-Series-Analysis/files/14103431/Rplot.pdf)
+
 
 ## Code
 
